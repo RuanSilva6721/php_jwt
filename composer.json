@@ -1,0 +1,15 @@
+{
+    "name": "ruan/php_jwt",
+    "autoload": {
+        "psr-4": {
+            "Ruan\\PhpJwt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ruan Silva",
+            "email": "ruansilva6721@gmail.com"
+        }
+    ],
+    "require": {}
+}
